@@ -1,7 +1,7 @@
-# ecg-hrv-pipeline
-ECG signal processing and HRV metric extraction using NeuroKit2 and NumPy
+
 # ECG HRV Pipeline
 
+ECG signal processing and HRV metric extraction using NeuroKit2 and NumPy.
 A beginner-friendly Python pipeline for ECG signal processing and Heart Rate Variability (HRV) analysis, built independently as part of an ongoing learning journey in computational neuroscience.
 
 ---
